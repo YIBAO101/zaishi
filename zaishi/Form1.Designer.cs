@@ -81,7 +81,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(214, 77);
             this.button5.TabIndex = 4;
-            this.button5.Text = "buttonFqy";
+            this.button5.Text = "buttonFqy1";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // Form1
